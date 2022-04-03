@@ -16,3 +16,7 @@ cd Boilerplate-TailwindCSS-JS-Vanilla
 ```
 npm install
 ```
+### Para que TailwindCSS escuche todos los cambios que se produzcan en mi HTML y lo compile a css en la carpeta *dist/output.css* ejecutar:
+```
+npm run compile:tailwind
+```
