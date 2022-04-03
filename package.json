@@ -4,7 +4,7 @@
   "description": "Curso para usar TailwindCss",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:tailwind":"npx tailwindcss -i ./src/css/styles.css -o ./dist/output.css --watch"
   },
   "author": "Josue Oroya",
   "license": "ISC",
