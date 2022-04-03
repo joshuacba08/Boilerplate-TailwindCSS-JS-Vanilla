@@ -1,0 +1,14 @@
+{
+  "name": "curso-tailwindcss",
+  "version": "1.0.0",
+  "description": "Curso para usar TailwindCss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josue Oroya",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
